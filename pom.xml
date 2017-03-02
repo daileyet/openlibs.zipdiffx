@@ -4,7 +4,7 @@
 	<groupId>com.openthinks.libs</groupId>
 	<artifactId>zipdiffx</artifactId>
 	<packaging>jar</packaging>
-	<version>1.0</version>
+	<version>1.0.1</version>
 	<name>Zip compare lib</name>
 	<description>The zip diff lib, The original zipdiff project was developed by Sean C. Sullivan and James Stewart at http://zipdiff.sourceforge.net/</description>
 	<url>https://github.com/daileyet/openlibs.zipdiffx.git</url>
@@ -70,8 +70,8 @@
 				<artifactId>maven-compiler-plugin</artifactId>
 				<version>3.5</version>
 				<configuration>
-					<source>1.8</source>
-					<target>1.8</target>
+					<source>1.7</source>
+					<target>1.7</target>
 				</configuration>
 			</plugin>
 			<plugin>
